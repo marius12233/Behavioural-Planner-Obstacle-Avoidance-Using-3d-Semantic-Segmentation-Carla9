@@ -16,5 +16,5 @@ The output is composed by 2 windows, one for the camera and the other for the Li
 
 The windows should be like these:
 
-![This is an image](https://drive.google.com/file/d/1NJ6mv5om925TQzMRBRQrSuysmAOGInnj)
+![Output screen](https://github.com/marius12233/Behavioural-Planner-Obstacle-Avoidance-Using-3d-Semantic-Segmentation-Carla9/blob/main/images/Untitled%20Diagram.drawio.png)
 
