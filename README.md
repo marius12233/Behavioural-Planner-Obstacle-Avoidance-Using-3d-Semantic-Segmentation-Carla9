@@ -1,5 +1,5 @@
 # Behavioural-Planner-Obstacle-Avoidance-Using-3d-Semantic-Segmentation-Carla9
-Behavioural Planner for Obstacle Avoidance on Carla 9 based on 3D Semantic Segmentation of Point Cloud using SalsaNext
+Behavioural Planner for Obstacle Avoidance on Carla 0.9.10 based on 3D Semantic Segmentation of Point Cloud using SalsaNext
 
 This repo is the first project I did for my thesis work.
 It is an Obstacle Avoidance algorithm on Carla using information given by 3D Semantic Segmentation of Point Cloud.
