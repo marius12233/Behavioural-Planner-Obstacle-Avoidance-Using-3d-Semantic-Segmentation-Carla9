@@ -9,8 +9,9 @@ The global planner and local planner used are those provided by Carla Simulator.
 
 Instructions for run:
 
-1. Run Carla Simulator Server on localhost and port 2000.
-2. Run `python main_prediction.py` to start a simulation which uses SalsaNext trained on 64 beams.
+1. Download and extract folder SalsaNext from here: (https://drive.google.com/drive/folders/1M4ru3266Ukc9oluf0z8MFxAu6yxnmUTn?usp=sharing). This contains configuration files and weights of Salsanext trained on both 16-beams lidar and 64-beams lidar on synthetic dataset of Pointclouds from Carla.
+2. Run Carla Simulator Server on localhost and port 2000.
+3. Run `python main_prediction.py` to start a simulation which uses SalsaNext trained on 64 beams.
 
 The output is composed by 2 windows, one for the camera and the other for the Lidar.
 
